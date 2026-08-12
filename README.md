@@ -1,6 +1,6 @@
 # 🛠️ DevOps Tools Guide
 
-![DevOps](https://placehold.co/1200x350/1f2937/ffffff?text=DevOps+Tools+Guide)
+
 
 > A beginner-friendly repository documenting five essential DevOps technologies: **Git, Docker, Jenkins, Kubernetes, and AWS**.
 
